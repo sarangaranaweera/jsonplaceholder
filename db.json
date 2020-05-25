@@ -2,17 +2,22 @@
   "todos": [
     {
       "id": 1,
-      "title": "Lankadeepa",
+      "title": "ලංකාදීප",
       "completed": false
     },
      {
       "id": 2,
-      "title": "Diwaina",
+      "title": "දිවයින ",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "අරුණ",
       "completed": false
     },
      {
-      "id": 3,
-      "title": "Aruna",
+      "id": 4,
+      "title": "විජය",
       "completed": false
     }
   ]
